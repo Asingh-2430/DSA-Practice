@@ -1,6 +1,4 @@
- 
-
-class Solution {
+ class Solution {
 public:
     bool isAnagram(string s, string t) {
         // If the lengths of the strings are different, they can't be anagrams.
